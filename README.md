@@ -15,3 +15,6 @@ cnpm install
 ```
 node node_crawler.js
 ```
+
+###
+确保改目录下有文件夹images供下载的图片保存，运行后可在images查看下载的图片
