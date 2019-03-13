@@ -1,5 +1,5 @@
 # node_crawler
-use node_crawler download images
+在node环境下使用crawler工具爬取对应的资源，本例是批量爬取对应图片。爬虫框架crawler:[https://www.npmjs.com/package/crawler](https://www.npmjs.com/package/crawler)
 
 
 ## 环境
