@@ -13,7 +13,7 @@ cnpm install
 
 ### 运行
 ```
-node crawler_img.js
+node index.js
 ```
 
 ###
