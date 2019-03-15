@@ -1,5 +1,10 @@
 # node_crawler
-在node环境下使用crawler工具爬取对应的资源，本例是批量爬取对应图片。爬虫框架crawler:[https://www.npmjs.com/package/crawler](https://www.npmjs.com/package/crawler)
+在node环境下使用crawler工具爬取对应的资源，本例是批量爬取对应图片。爬虫框架crawler:[https://www.npmjs.com/package/crawler](https://www.npmjs.com/package/crawler).
+
+
+cheerio
+cheerio是jquery核心功能的一个快速灵活而又简洁的实现，主要是为了用在服务器端需要对DOM进行操作的地方
+API[https://www.npmjs.com/package/cheerio](https://www.npmjs.com/package/cheerio).
 
 
 ## 环境
